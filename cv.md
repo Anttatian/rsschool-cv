@@ -40,7 +40,6 @@ Until I figured out exactly what I like about all this. The main thing is that i
 				</div>
 			</div>
 		</header>
-		<main>
 ```
 [Сайт для коллеги инструктора по физической культуре](https://github.com/Anttatian/Inna_site)
 
