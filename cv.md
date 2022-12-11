@@ -9,7 +9,7 @@ In the past I have been a good teacher. The ability to find an approach to diffe
 
 I liked programming since my youth, and when I realized that I wanted to work from home, I decided to move to a completely different area.
 
-My husband works as a testing engineer, I wrote my first lines with his support. Now I write it myself, there are a couple of sites in my piggy bank, each time I study something new I find a lot of mistakes in them, but my hands do not reach to redo it. I'll probably just rewrite them later. Now I'm pretty confident in using **HTML , CSS**. I figured out a little about **flex, Github**. I really want to understand **JS**.
+My husband works as a testing engineer, I wrote my first lines with his support. Now I write it myself, there are a couple of sites in my piggy bank, each time I study something new I find a lot of mistakes in them, but my hands do not reach to redo it. I'll probably just rewrite them later. Now I'm pretty confident in using **HTML, CSS**. I figured out a little about **flex, Github**. I really want to understand **JS**.
 
 Until I figured out exactly what I like about all this. The main thing is that it really brings me pleasure.
 ****
