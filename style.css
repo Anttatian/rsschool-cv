@@ -1,1 +1,6 @@
-
+body{
+	height: 100%;
+	background-color: #CBF6FFFF;
+/*настройки шрифта*/
+	font-family: Comic Sans MS, Comic Sans, Bradley Hand, Brush Script MT, Brush Script Std, cursive; 
+}
