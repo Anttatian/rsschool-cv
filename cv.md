@@ -1,9 +1,11 @@
+<image src="https://img.hhcdn.ru/photo/727472589.jpeg?t=1688138882&h=1cnnLM_eke85ihQAhOHlVg" border="2px solid blue" height="100px" width="135px" alt="Описание картинки">
+  
 # Tatiana Antonova
 * e-mail: ant.tatian@gmail.com 
 * tel.: 8-962-936-28-36
-* telegramm: @Ant_Tatian
-* discord: anttatian#2136
-* Linkedin: https://www.linkedin.com/in/ant-tatian/
+* [telegramm](@Ant_Tatian)
+* [discord](anttatian#2136)
+* [Linkedin](https://www.linkedin.com/in/ant-tatian/)
 
 ---
 
@@ -17,14 +19,15 @@ Have experience with HTML and CSS.
 
 ***
 
-https://github.com/Anttatian/how-to-learn - the result of courses in Yandex.
+[Result of courses in Yandex](https://github.com/Anttatian/how-to-learn)
 
-https://github.com/Anttatian/Figma_manicure.git
+[Layout with figma](https://github.com/Anttatian/Figma_manicure.git)
 
-https://github.com/Anttatian/MaketForFigmaAliviLanding
+[Second layout with figma](https://github.com/Anttatian/MaketForFigmaAliviLanding)
 
-http://lakisnails.tilda.ws - site on Tilda.
+[Site on Tilda](http://lakisnails.tilda.ws)
 
-https://github.com/Anttatian/ForE-mailMailing.git - sample block for e-mail mailing.
+[Sample block for e-mail mailing](https://github.com/Anttatian/ForE-mailMailing.git)
+
 
 Knowledge of English - Limited working proficiency
