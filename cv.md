@@ -1,21 +1,30 @@
-Tatiana Antonova
-e-mail: ant.tatian@gmail.com 
-tel.: 8-962-936-28-36
-telegramm:
-discord:
+# Tatiana Antonova
+* e-mail: ant.tatian@gmail.com 
+* tel.: 8-962-936-28-36
+* telegramm: @Ant_Tatian
+* discord: anttatian#2136
+* Linkedin: https://www.linkedin.com/in/ant-tatian/
 
-Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении учиться и узнавать новое)
-Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
-Примеры кода
-Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.
-Образование (включая пройденные курсы и тренинги)
-Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
+---
 
-оформление CV на ваше усмотрение. Старайтесь выполнить работу максимально качественно. При выборе дизайна CV можно руководствоваться примерами, приведёнными в материалах к заданию
-в CV добавьте своё фото или аватарку. Фото предпочтительнее
-в CV укажите актуальные контакты для связи, в т.ч никнейм на дискорд-сервере rs school
-в качестве примера кода приведите решение задачи с сайта Codewars.
-Если решённых задач пока нет, подойдёт задача, которую нужно решить при регистрации на Codewars
-код добавляется при помощи символов и тегов, а не картинкой
-для выполненных проектов добавьте название проекта, ссылку на код проекта на гитхабе или ссылку на страницу проекта.
-Если выполненных проектов пока нет, в качестве первого проекта укажите само CV
+1.5 years ago I decided to radically change the field of activity and moved from education to IT.
+
+During this time, I studied at ИТМО, a little at Yandex Practicum, and independently study courses on the Stepik platform.
+
+I have experience as a content manager (with customer support duties).
+
+Have experience with HTML and CSS.
+
+***
+
+https://github.com/Anttatian/how-to-learn - the result of courses in Yandex.
+
+https://github.com/Anttatian/Figma_manicure.git
+
+https://github.com/Anttatian/MaketForFigmaAliviLanding
+
+http://lakisnails.tilda.ws - site on Tilda.
+
+https://github.com/Anttatian/ForE-mailMailing.git - sample block for e-mail mailing.
+
+Knowledge of English - Limited working proficiency
